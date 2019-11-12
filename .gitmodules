@@ -1,0 +1,3 @@
+[submodule "lib/extcolors"]
+	path = lib/extcolors
+	url = https://github.com/CairX/extract-colors-py
